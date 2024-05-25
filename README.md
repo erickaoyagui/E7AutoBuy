@@ -1,4 +1,5 @@
-# Projeto Nome do Projeto
+# Projeto E7AutoBuy
+
 
 Este é um projeto Python para utilizar o comprador automático no Epic Seven. Este README fornece uma visão geral do projeto, instruções de instalação, uso e informações sobre a contribuição.
 
@@ -7,9 +8,6 @@ Este é um projeto Python para utilizar o comprador automático no Epic Seven. E
 - [Visão Geral](#visão-geral)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Visão Geral
 
@@ -38,4 +36,12 @@ Siga as etapas abaixo para instalar o projeto localmente.
 5. Instale as dependências:
    ```bash
    pip install -r requirements.txt
+
+## Uso
+
+Para executar o projeto, use o comando abaixo:
+
+```bash
+python main.py
+
 
